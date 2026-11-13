@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**villaSC4/villaSC4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Raquel Villafuerte 👋
 
-Here are some ideas to get you started:
+### Systems Engineering Student · Frontend Developer · Full Stack Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building web applications and accessible software solutions with a focus on clean architecture, user experience, and real-world impact.
+
+🌐 [Portfolio & Projects](https://github.com/villaSC4)
+
+</div>
+
+---
+
+### 👩‍💻 Currently
+- 🎓 **Systems Engineering** @ Universidad Tecnológica del Perú (UTP)
+- 💻 **Frontend Development Specialization** @ IDAT
+- 🚀 Developing full-stack web applications and CRM systems
+
+---
+
+### ⚡ What I do
+
+| Frontend Engineering | Backend & Databases | UI/UX & Product Design |
+| :---: | :---: | :---: |
+| React · TypeScript · Tailwind CSS · Vite | Spring Boot · Laravel · PHP · MySQL | Figma · Responsive Design · Accessibility |
+
+---
+
+### 🛠️ Tech Stack
+
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React` · `Vite` · `Tailwind CSS` · `Bootstrap` · `Java` · `Spring Boot` · `PHP` · `Laravel` · `MySQL` · `Git` · `GitHub` · `Figma`
+
+---
+
+### 🚀 Featured Work
+Building end-to-end projects around **full-stack software development, custom CRM platforms, frontend & UI/UX design, database architecture, and business data dashboards** 
+
+> "Good software should not only work — it should be intuitive, scalable, and built on solid data."
+
+> "Good code is not just functional — it is clean, accessible, and built to solve real problems."
