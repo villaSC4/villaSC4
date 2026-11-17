@@ -6,7 +6,7 @@
 
 Building web applications and accessible software solutions with a focus on clean architecture, user experience, and real-world impact.
 
-🌐 [Portfolio & Projects]([https://raquevillafuerte-cv.netlify.app/])
+🌐 [Portfolio & Projects](https://raquevillafuerte-cv.netlify.app/)
 
 </div>
 
